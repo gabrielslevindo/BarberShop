@@ -11,8 +11,11 @@ Visando Buscar mais conhecimento e experiência, em paralelo as minhas aulas no 
 
 * 100% Kotlin
 * FireBase
+
+  ## UI Components
 * DataSpiker
 * TimeSpicker
+* Checkbox
 
 ## TODO
 
